@@ -22,7 +22,6 @@ int main(){
 			PalavraInvertida.clear();
 		}
 	}
-
 	std::cout << "Texto Invertido:";
 	for (int i = 0; i < FraseInvertida.size(); i++)
 		std::cout << FraseInvertida.at(i);
